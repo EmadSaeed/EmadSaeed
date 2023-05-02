@@ -9,11 +9,11 @@ Full Stack JavaScript Developer with AWS Cloud Practitioner certification. Extra
 *   🌍  I'm based in the UK
 *   ✉️  You can contact me at [hello@emadsaeed.com](mailto:hello@emadsaeed.com )
 *   🤝  I'm open to collaborating on open source projects
-<!-- *   ⚡  I'm an avid climber in my spare time
 
 ### My Last Certification(s)
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/120x120/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/e8bfc40c-cc61-4307-8c29-84b57f5c931b/public_url)
 
+<!-- *   ⚡  I'm an avid climber in my spare time
 <h3 align="left">Let's Connect</h3>
 <p align="left">
     <a href="https://dev.to/samxander" target="blank">
